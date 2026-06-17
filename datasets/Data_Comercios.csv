@@ -1,0 +1,116 @@
+merchant_id,nombre_comercio,categoria,provincia
+M0001,Walmart 1,Farmacia,Cartago
+M0002,Walmart 2,Farmacia,San José
+M0003,Walmart 3,Farmacia,Cartago
+M0004,Walmart 4,Farmacia,Guanacaste
+M0005,Walmart 5,Retail,Alajuela
+M0006,Walmart 6,Supermercado,Limón
+M0007,Walmart 7,Supermercado,Puntarenas
+M0008,Wallmart,Retail,Cartago
+M0009,Walmart 9,Farmacia,Guanacaste
+M0010,Walmart 10,Supermercado,Cartago
+M0011,Walmart 11,Supermercado,Puntarenas
+M0012,Walmart 12,Retail,Guanacaste
+M0013,WALMART,Farmacia,Cartago
+M0014,Walmart 14,Retail,San José
+M0015,Wallmart,Farmacia,Puntarenas
+M0016,Walmart 16,Farmacia,Limón
+M0017,Walmart 17,Retail,San José
+M0018,wallmart,Supermercado,Cartago
+M0019,WALMART,Retail,San José
+M0020,Walmart 20,Farmacia,Heredia
+M0021,WALMART,Supermercado,Alajuela
+M0022,Wallmart,Supermercado,Heredia
+M0023,Walmart 23,Retail,San José
+M0024,wallmart,Supermercado,San José
+M0025,Walmart 25,Supermercado,Alajuela
+M0026,Walmart 26,Farmacia,San José
+M0027,WALMART,Farmacia,San José
+M0028,Wallmart,Retail,Puntarenas
+M0029,Walmart 29,Farmacia,Puntarenas
+M0030,WALMART,Retail,Heredia
+M0031,WALMART,Retail,Cartago
+M0032,Walmart 32,Farmacia,Cartago
+M0033,wallmart,Supermercado,Guanacaste
+M0034,WALMART,Farmacia,Heredia
+M0035,Walmart 35,Retail,Limón
+M0036,WALMART,Farmacia,Puntarenas
+M0037,Walmart 37,Farmacia,Limón
+M0038,WALMART,Farmacia,Guanacaste
+M0039,Walmart 39,Farmacia,San José
+M0040,WALMART,Supermercado,Puntarenas
+M0041,WALMART,Supermercado,Cartago
+M0042,Walmart 42,Supermercado,Heredia
+M0043,Wallmart,Farmacia,Heredia
+M0044,Walmart 44,Farmacia,San José
+M0045,Walmart 45,Retail,San José
+M0046,Walmart 46,Farmacia,Alajuela
+M0047,Walmart 47,Supermercado,San José
+M0048,WALMART,Supermercado,Alajuela
+M0049,Walmart 49,Supermercado,Limón
+M0050,Walmart 50,Farmacia,Cartago
+M0051,Walmart 51,Retail,San José
+M0052,Walmart 52,Supermercado,Guanacaste
+M0053,Walmart 53,Supermercado,Cartago
+M0054,wallmart,Retail,Puntarenas
+M0055,wallmart,Supermercado,San José
+M0056,Walmart 56,Retail,San José
+M0057,wallmart,Farmacia,Cartago
+M0058,wallmart,Farmacia,Alajuela
+M0059,Walmart 59,Farmacia,San José
+M0060,Wallmart,Supermercado,Heredia
+M0061,Walmart 61,Supermercado,Alajuela
+M0062,Walmart 62,Farmacia,Alajuela
+M0063,Walmart 63,Farmacia,Limón
+M0064,Wallmart,Farmacia,Heredia
+M0065,wallmart,Farmacia,Puntarenas
+M0066,Walmart 66,Farmacia,Heredia
+M0067,Walmart 67,Supermercado,Heredia
+M0068,Walmart 68,Retail,San José
+M0069,Walmart 69,Supermercado,Heredia
+M0070,wallmart,Farmacia,Puntarenas
+M0071,Walmart 71,Supermercado,Guanacaste
+M0072,Walmart 72,Retail,Cartago
+M0073,Walmart 73,Farmacia,Limón
+M0074,wallmart,Supermercado,San José
+M0075,Walmart 75,Farmacia,Guanacaste
+M0076,Walmart 76,Supermercado,Guanacaste
+M0077,Walmart 77,Supermercado,Heredia
+M0078,Walmart 78,Retail,Puntarenas
+M0079,wallmart,Farmacia,San José
+M0080,WALMART,Farmacia,Cartago
+M0081,Walmart 81,Supermercado,Cartago
+M0082,Wallmart,Farmacia,San José
+M0083,Wallmart,Supermercado,Puntarenas
+M0084,Wallmart,Retail,Cartago
+M0085,WALMART,Farmacia,Guanacaste
+M0086,Wallmart,Supermercado,Heredia
+M0087,Walmart 87,Retail,Alajuela
+M0088,Wallmart,Retail,Puntarenas
+M0089,Wallmart,Supermercado,Alajuela
+M0090,Walmart 90,Farmacia,Alajuela
+M0091,Walmart 91,Retail,San José
+M0092,Walmart 92,Farmacia,Limón
+M0093,Walmart 93,Farmacia,San José
+M0094,wallmart,Retail,Cartago
+M0095,Walmart 95,Supermercado,Puntarenas
+M0096,Walmart 96,Farmacia,Puntarenas
+M0097,Walmart 97,Retail,Guanacaste
+M0098,Walmart 98,Farmacia,San José
+M0099,Walmart 99,Supermercado,Alajuela
+M0100,WALMART,Retail,Alajuela
+M0094,wallmart,Retail,Cartago
+M0068,Walmart 68,Retail,San José
+M0007,Walmart 7,Supermercado,Puntarenas
+M0065,wallmart,Farmacia,Puntarenas
+M0097,Walmart 97,Retail,Guanacaste
+M0084,Wallmart,Retail,Cartago
+M0099,Walmart 99,Supermercado,Alajuela
+M0043,Wallmart,Farmacia,Heredia
+M0026,Walmart 26,Farmacia,San José
+M0016,Walmart 16,Farmacia,Limón
+M0078,Walmart 78,Retail,Puntarenas
+M0010,Walmart 10,Supermercado,Cartago
+M0072,Walmart 72,Retail,Cartago
+M0098,Walmart 98,Farmacia,San José
+M0035,Walmart 35,Retail,Limón

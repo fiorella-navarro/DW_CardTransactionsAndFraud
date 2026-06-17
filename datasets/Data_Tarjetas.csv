@@ -1,0 +1,441 @@
+card_id,customer_id,tipo_tarjeta,emisor,categoria,estado_tarjeta,fecha_emision
+T000001,C00074,Platinum,VISA,Premium,Activa,2024-01-01
+T000002,C00185,Classic,Mastercard,Premium,Activa,2024-01-01
+T000003,C00108,Classic,Visa,Premium,Activa,2024-01-01
+T000004,C00117,Gold,Visa,Consumo,Activa,2024-01-01
+T000005,C00127,Classic,Visa,Consumo,Activa,2024-01-01
+T000006,C00194,Platinum,Visa,Premium,Activa,2024-01-01
+T000007,C00033,Platinum,Visa,Premium,Activa,2024-01-01
+T000008,C00127,Gold,master card,Consumo,Activa,2024-01-01
+T000009,C00173,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000010,C00288,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000011,C00093,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000012,C00168,Gold,Mastercard,Premium,Activa,2024-01-01
+T000013,C00095,Classic,VISA,Consumo,Activa,2024-01-01
+T000014,C00057,Gold,master card,Premium,Activa,2024-01-01
+T000015,C00030,Classic,Visa,Premium,Activa,2024-01-01
+T000016,C00049,Gold,Mastercard,Premium,Activa,2024-01-01
+T000017,C00131,Gold,Visa,Premium,Activa,2024-01-01
+T000018,C00227,Gold,Visa,Premium,Activa,2024-01-01
+T000019,C00260,Gold,VISA,Consumo,Activa,2024-01-01
+T000020,C00283,Gold,master card,Consumo,Activa,2024-01-01
+T000021,C00246,Platinum,master card,Premium,Activa,2024-01-01
+T000022,C00217,Gold,visa,Premium,Activa,2024-01-01
+T000023,C00180,Platinum,Visa,Premium,Activa,2024-01-01
+T000024,C00231,Platinum,master card,Premium,Activa,2024-01-01
+T000025,C00128,Gold,Visa,Premium,Activa,2024-01-01
+T000026,C00044,Classic,Mastercard,Premium,Activa,2024-01-01
+T000027,C00124,Gold,visa,Consumo,Activa,2024-01-01
+T000028,C00191,Classic,Visa,Premium,Activa,2024-01-01
+T000029,C00264,Classic,Visa,Premium,Activa,2024-01-01
+T000030,C00144,Gold,Mastercard,Premium,Activa,2024-01-01
+T000031,C00189,Classic,visa,Premium,Activa,2024-01-01
+T000032,C00285,Classic,Mastercard,Premium,Activa,2024-01-01
+T000033,C00038,Gold,master card,Premium,Activa,2024-01-01
+T000034,C00243,Classic,Visa,Premium,Activa,2024-01-01
+T000035,C00282,Platinum,VISA,Consumo,Activa,2024-01-01
+T000036,C00079,Gold,Visa,Consumo,Activa,2024-01-01
+T000037,C00133,Gold,Mastercard,Premium,Activa,2024-01-01
+T000038,C00047,Classic,Visa,Consumo,Activa,2024-01-01
+T000039,C00211,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000040,C00063,Gold,Mastercard,Premium,Activa,2024-01-01
+T000041,C00275,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000042,C00255,Platinum,VISA,Premium,Activa,2024-01-01
+T000043,C00102,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000044,C00037,Gold,Mastercard,Premium,Activa,2024-01-01
+T000045,C00229,Classic,VISA,Consumo,Activa,2024-01-01
+T000046,C00159,Classic,VISA,Premium,Activa,2024-01-01
+T000047,C00271,Gold,Mastercard,Premium,Activa,2024-01-01
+T000048,C00072,Classic,visa,Premium,Activa,2024-01-01
+T000049,C00237,Platinum,Visa,Consumo,Activa,2024-01-01
+T000050,C00072,Gold,Visa,Premium,Activa,2024-01-01
+T000051,C00300,Classic,master card,Premium,Activa,2024-01-01
+T000052,C00162,Platinum,master card,Consumo,Activa,2024-01-01
+T000053,C00041,Gold,VISA,Consumo,Activa,2024-01-01
+T000054,C00190,Classic,visa,Consumo,Activa,2024-01-01
+T000055,C00115,Classic,Mastercard,Premium,Activa,2024-01-01
+T000056,C00234,Gold,master card,Premium,Activa,2024-01-01
+T000057,C00087,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000058,C00161,Gold,Mastercard,Premium,Activa,2024-01-01
+T000059,C00207,Classic,Visa,Consumo,Activa,2024-01-01
+T000060,C00230,Gold,Visa,Consumo,Activa,2024-01-01
+T000061,C00258,Platinum,master card,Premium,Activa,2024-01-01
+T000062,C00225,Classic,Visa,Consumo,Activa,2024-01-01
+T000063,C00160,Classic,Visa,Premium,Activa,2024-01-01
+T000064,C00227,Gold,Visa,Premium,Activa,2024-01-01
+T000065,C00187,Classic,visa,Consumo,Activa,2024-01-01
+T000066,C00295,Gold,VISA,Consumo,Activa,2024-01-01
+T000067,C00087,Gold,Visa,Premium,Activa,2024-01-01
+T000068,C00075,Gold,Visa,Premium,Activa,2024-01-01
+T000069,C00047,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000070,C00270,Platinum,visa,Premium,Activa,2024-01-01
+T000071,C00216,Classic,master card,Premium,Activa,2024-01-01
+T000072,C00132,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000073,C00259,Platinum,master card,Premium,Activa,2024-01-01
+T000074,C00089,Gold,Mastercard,Premium,Activa,2024-01-01
+T000075,C00256,Gold,visa,Premium,Activa,2024-01-01
+T000076,C00161,Platinum,master card,Consumo,Activa,2024-01-01
+T000077,C00145,Gold,VISA,Premium,Activa,2024-01-01
+T000078,C00300,Classic,master card,Premium,Activa,2024-01-01
+T000079,C00105,Classic,Visa,Premium,Activa,2024-01-01
+T000080,C00153,Classic,VISA,Premium,Activa,2024-01-01
+T000081,C00245,Classic,Visa,Premium,Activa,2024-01-01
+T000082,C00196,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000083,C00054,Platinum,Visa,Premium,Activa,2024-01-01
+T000084,C00023,Gold,Visa,Premium,Activa,2024-01-01
+T000085,C00133,Classic,Mastercard,Premium,Activa,2024-01-01
+T000086,C00300,Gold,visa,Consumo,Activa,2024-01-01
+T000087,C00287,Classic,visa,Premium,Activa,2024-01-01
+T000088,C00008,Classic,VISA,Consumo,Activa,2024-01-01
+T000089,C00295,Classic,visa,Consumo,Activa,2024-01-01
+T000090,C00254,Classic,visa,Premium,Activa,2024-01-01
+T000091,C00048,Classic,master card,Consumo,Activa,2024-01-01
+T000092,C00106,Platinum,master card,Premium,Activa,2024-01-01
+T000093,C00209,Gold,Visa,Premium,Activa,2024-01-01
+T000094,C00159,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000095,C00293,Gold,VISA,Premium,Activa,2024-01-01
+T000096,C00267,Classic,Visa,Consumo,Activa,2024-01-01
+T000097,C00148,Classic,Mastercard,Premium,Activa,2024-01-01
+T000098,C00033,Platinum,master card,Consumo,Activa,2024-01-01
+T000099,C00044,Classic,master card,Premium,Activa,2024-01-01
+T000100,C00023,Platinum,visa,Premium,Activa,2024-01-01
+T000101,C00066,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000102,C00280,Classic,visa,Premium,Activa,2024-01-01
+T000103,C00286,Gold,VISA,Consumo,Activa,2024-01-01
+T000104,C00211,Gold,master card,Premium,Activa,2024-01-01
+T000105,C00139,Classic,visa,Premium,Activa,2024-01-01
+T000106,C00174,Classic,Visa,Premium,Activa,2024-01-01
+T000107,C00247,Gold,VISA,Consumo,Activa,2024-01-01
+T000108,C00190,Classic,Mastercard,Premium,Activa,2024-01-01
+T000109,C00060,Platinum,visa,Consumo,Activa,2024-01-01
+T000110,C00131,Gold,Mastercard,Premium,Activa,2024-01-01
+T000111,C00242,Classic,Visa,Consumo,Activa,2024-01-01
+T000112,C00253,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000113,C00183,Classic,Mastercard,Premium,Activa,2024-01-01
+T000114,C00052,Classic,VISA,Consumo,Activa,2024-01-01
+T000115,C00253,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000116,C00061,Gold,Visa,Consumo,Activa,2024-01-01
+T000117,C00183,Gold,Mastercard,Premium,Activa,2024-01-01
+T000118,C00110,Classic,Visa,Consumo,Activa,2024-01-01
+T000119,C00057,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000120,C00226,Platinum,visa,Premium,Activa,2024-01-01
+T000121,C00031,Gold,Visa,Premium,Activa,2024-01-01
+T000122,C00024,Platinum,master card,Premium,Activa,2024-01-01
+T000123,C00061,Gold,Mastercard,Premium,Activa,2024-01-01
+T000124,C00276,Platinum,Visa,Consumo,Activa,2024-01-01
+T000125,C00196,Classic,visa,Consumo,Activa,2024-01-01
+T000126,C00025,Gold,Mastercard,Premium,Activa,2024-01-01
+T000127,C00266,Gold,VISA,Premium,Activa,2024-01-01
+T000128,C00275,Gold,master card,Premium,Activa,2024-01-01
+T000129,C00180,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000130,C00233,Gold,Visa,Premium,Activa,2024-01-01
+T000131,C00034,Platinum,Visa,Premium,Activa,2024-01-01
+T000132,C00200,Gold,VISA,Premium,Activa,2024-01-01
+T000133,C00152,Platinum,Visa,Consumo,Activa,2024-01-01
+T000134,C00240,Platinum,visa,Consumo,Activa,2024-01-01
+T000135,C00160,Gold,Visa,Consumo,Activa,2024-01-01
+T000136,C00249,Platinum,Visa,Premium,Activa,2024-01-01
+T000137,C00218,Classic,Visa,Consumo,Activa,2024-01-01
+T000138,C00168,Classic,visa,Consumo,Activa,2024-01-01
+T000139,C00053,Platinum,VISA,Consumo,Activa,2024-01-01
+T000140,C00043,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000141,C00163,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000142,C00284,Classic,Visa,Premium,Activa,2024-01-01
+T000143,C00213,Classic,master card,Consumo,Activa,2024-01-01
+T000144,C00268,Classic,VISA,Consumo,Activa,2024-01-01
+T000145,C00261,Classic,Visa,Consumo,Activa,2024-01-01
+T000146,C00173,Platinum,VISA,Premium,Activa,2024-01-01
+T000147,C00142,Classic,Visa,Premium,Activa,2024-01-01
+T000148,C00039,Gold,master card,Consumo,Activa,2024-01-01
+T000149,C00020,Classic,Visa,Consumo,Activa,2024-01-01
+T000150,C00171,Gold,master card,Consumo,Activa,2024-01-01
+T000151,C00024,Classic,VISA,Consumo,Activa,2024-01-01
+T000152,C00265,Gold,master card,Premium,Activa,2024-01-01
+T000153,C00144,Platinum,Visa,Premium,Activa,2024-01-01
+T000154,C00078,Platinum,Visa,Consumo,Activa,2024-01-01
+T000155,C00170,Platinum,master card,Consumo,Activa,2024-01-01
+T000156,C00253,Classic,Visa,Premium,Activa,2024-01-01
+T000157,C00150,Classic,Visa,Consumo,Activa,2024-01-01
+T000158,C00140,Platinum,visa,Premium,Activa,2024-01-01
+T000159,C00063,Gold,Mastercard,Premium,Activa,2024-01-01
+T000160,C00119,Gold,Mastercard,Premium,Activa,2024-01-01
+T000161,C00164,Classic,Visa,Consumo,Activa,2024-01-01
+T000162,C00028,Gold,master card,Premium,Activa,2024-01-01
+T000163,C00176,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000164,C00183,Platinum,VISA,Consumo,Activa,2024-01-01
+T000165,C00239,Classic,Visa,Premium,Activa,2024-01-01
+T000166,C00217,Classic,VISA,Premium,Activa,2024-01-01
+T000167,C00130,Classic,Visa,Consumo,Activa,2024-01-01
+T000168,C00176,Classic,Visa,Premium,Activa,2024-01-01
+T000169,C00088,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000170,C00098,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000171,C00285,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000172,C00188,Platinum,visa,Premium,Activa,2024-01-01
+T000173,C00192,Platinum,Visa,Premium,Activa,2024-01-01
+T000174,C00234,Gold,Visa,Premium,Activa,2024-01-01
+T000175,C00035,Gold,Visa,Premium,Activa,2024-01-01
+T000176,C00233,Gold,master card,Premium,Activa,2024-01-01
+T000177,C00275,Platinum,Visa,Premium,Activa,2024-01-01
+T000178,C00265,Gold,Visa,Premium,Activa,2024-01-01
+T000179,C00202,Platinum,visa,Premium,Activa,2024-01-01
+T000180,C00255,Gold,Visa,Premium,Activa,2024-01-01
+T000181,C00244,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000182,C00048,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000183,C00188,Classic,Visa,Premium,Activa,2024-01-01
+T000184,C00010,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000185,C00137,Gold,master card,Consumo,Activa,2024-01-01
+T000186,C00196,Platinum,Visa,Consumo,Activa,2024-01-01
+T000187,C00187,Gold,VISA,Consumo,Activa,2024-01-01
+T000188,C00283,Classic,VISA,Premium,Activa,2024-01-01
+T000189,C00210,Platinum,Visa,Premium,Activa,2024-01-01
+T000190,C00228,Gold,visa,Consumo,Activa,2024-01-01
+T000191,C00263,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000192,C00188,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000193,C00172,Classic,master card,Consumo,Activa,2024-01-01
+T000194,C00280,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000195,C00101,Platinum,master card,Premium,Activa,2024-01-01
+T000196,C00095,Platinum,visa,Premium,Activa,2024-01-01
+T000197,C00245,Platinum,visa,Premium,Activa,2024-01-01
+T000198,C00153,Classic,Visa,Consumo,Activa,2024-01-01
+T000199,C00082,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000200,C00003,Classic,master card,Premium,Activa,2024-01-01
+T000201,C00283,Classic,Visa,Consumo,Activa,2024-01-01
+T000202,C00029,Gold,Mastercard,Premium,Activa,2024-01-01
+T000203,C00271,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000204,C00069,Platinum,Visa,Consumo,Activa,2024-01-01
+T000205,C00244,Gold,Mastercard,Premium,Activa,2024-01-01
+T000206,C00002,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000207,C00057,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000208,C00167,Gold,Mastercard,Premium,Activa,2024-01-01
+T000209,C00150,Platinum,visa,Consumo,Activa,2024-01-01
+T000210,C00118,Classic,master card,Premium,Activa,2024-01-01
+T000211,C00191,Platinum,visa,Consumo,Activa,2024-01-01
+T000212,C00146,Gold,VISA,Premium,Activa,2024-01-01
+T000213,C00069,Classic,VISA,Consumo,Activa,2024-01-01
+T000214,C00074,Gold,Mastercard,Premium,Activa,2024-01-01
+T000215,C00251,Gold,Visa,Consumo,Activa,2024-01-01
+T000216,C00193,Gold,Visa,Premium,Activa,2024-01-01
+T000217,C00291,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000218,C00037,Platinum,VISA,Consumo,Activa,2024-01-01
+T000219,C00236,Classic,Mastercard,Premium,Activa,2024-01-01
+T000220,C00219,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000221,C00245,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000222,C00150,Gold,Visa,Consumo,Activa,2024-01-01
+T000223,C00258,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000224,C00004,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000225,C00291,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000226,C00037,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000227,C00027,Gold,Visa,Consumo,Activa,2024-01-01
+T000228,C00126,Gold,Visa,Premium,Activa,2024-01-01
+T000229,C00259,Gold,master card,Consumo,Activa,2024-01-01
+T000230,C00045,Classic,visa,Premium,Activa,2024-01-01
+T000231,C00061,Classic,VISA,Premium,Activa,2024-01-01
+T000232,C00039,Gold,Visa,Premium,Activa,2024-01-01
+T000233,C00174,Platinum,master card,Premium,Activa,2024-01-01
+T000234,C00138,Gold,Visa,Consumo,Activa,2024-01-01
+T000235,C00037,Classic,Mastercard,Premium,Activa,2024-01-01
+T000236,C00056,Gold,VISA,Consumo,Activa,2024-01-01
+T000237,C00238,Platinum,master card,Premium,Activa,2024-01-01
+T000238,C00043,Classic,Visa,Premium,Activa,2024-01-01
+T000239,C00117,Classic,visa,Premium,Activa,2024-01-01
+T000240,C00022,Classic,VISA,Consumo,Activa,2024-01-01
+T000241,C00077,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000242,C00206,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000243,C00253,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000244,C00198,Classic,Mastercard,Premium,Activa,2024-01-01
+T000245,C00201,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000246,C00204,Platinum,Visa,Premium,Activa,2024-01-01
+T000247,C00060,Classic,visa,Premium,Activa,2024-01-01
+T000248,C00274,Gold,Visa,Consumo,Activa,2024-01-01
+T000249,C00175,Platinum,VISA,Consumo,Activa,2024-01-01
+T000250,C00175,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000251,C00116,Classic,master card,Consumo,Activa,2024-01-01
+T000252,C00300,Platinum,visa,Consumo,Activa,2024-01-01
+T000253,C00062,Platinum,visa,Premium,Activa,2024-01-01
+T000254,C00026,Platinum,VISA,Premium,Activa,2024-01-01
+T000255,C00118,Platinum,VISA,Premium,Activa,2024-01-01
+T000256,C00247,Gold,master card,Consumo,Activa,2024-01-01
+T000257,C00072,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000258,C00169,Classic,VISA,Consumo,Activa,2024-01-01
+T000259,C00001,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000260,C00192,Gold,Mastercard,Premium,Activa,2024-01-01
+T000261,C00296,Classic,Visa,Premium,Activa,2024-01-01
+T000262,C00131,Gold,Visa,Consumo,Activa,2024-01-01
+T000263,C00248,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000264,C00126,Platinum,Visa,Consumo,Activa,2024-01-01
+T000265,C00008,Platinum,Visa,Premium,Activa,2024-01-01
+T000266,C00298,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000267,C00015,Gold,Mastercard,Premium,Activa,2024-01-01
+T000268,C00153,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000269,C00126,Classic,Visa,Premium,Activa,2024-01-01
+T000270,C00139,Platinum,master card,Premium,Activa,2024-01-01
+T000271,C00165,Platinum,Visa,Premium,Activa,2024-01-01
+T000272,C00243,Classic,Visa,Premium,Activa,2024-01-01
+T000273,C00045,Platinum,visa,Consumo,Activa,2024-01-01
+T000274,C00083,Classic,Mastercard,Premium,Activa,2024-01-01
+T000275,C00274,Classic,Visa,Consumo,Activa,2024-01-01
+T000276,C00276,Classic,master card,Premium,Activa,2024-01-01
+T000277,C00191,Gold,Mastercard,Premium,Activa,2024-01-01
+T000278,C00149,Gold,Visa,Consumo,Activa,2024-01-01
+T000279,C00182,Gold,VISA,Premium,Activa,2024-01-01
+T000280,C00265,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000281,C00291,Classic,visa,Consumo,Activa,2024-01-01
+T000282,C00061,Platinum,VISA,Premium,Activa,2024-01-01
+T000283,C00114,Platinum,master card,Premium,Activa,2024-01-01
+T000284,C00049,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000285,C00094,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000286,C00141,Platinum,Visa,Consumo,Activa,2024-01-01
+T000287,C00119,Gold,Mastercard,Premium,Activa,2024-01-01
+T000288,C00105,Classic,Visa,Premium,Activa,2024-01-01
+T000289,C00158,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000290,C00099,Gold,VISA,Premium,Activa,2024-01-01
+T000291,C00114,Classic,Visa,Premium,Activa,2024-01-01
+T000292,C00264,Platinum,Visa,Premium,Activa,2024-01-01
+T000293,C00116,Gold,Mastercard,Premium,Activa,2024-01-01
+T000294,C00127,Platinum,Visa,Consumo,Activa,2024-01-01
+T000295,C00026,Gold,VISA,Consumo,Activa,2024-01-01
+T000296,C00058,Platinum,master card,Premium,Activa,2024-01-01
+T000297,C00077,Classic,VISA,Premium,Activa,2024-01-01
+T000298,C00230,Classic,VISA,Premium,Activa,2024-01-01
+T000299,C00279,Platinum,VISA,Premium,Activa,2024-01-01
+T000300,C00247,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000301,C00056,Gold,Mastercard,Premium,Activa,2024-01-01
+T000302,C00210,Gold,Visa,Premium,Activa,2024-01-01
+T000303,C00297,Gold,Visa,Premium,Activa,2024-01-01
+T000304,C00211,Platinum,VISA,Consumo,Activa,2024-01-01
+T000305,C00040,Gold,visa,Consumo,Activa,2024-01-01
+T000306,C00051,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000307,C00086,Gold,master card,Consumo,Activa,2024-01-01
+T000308,C00229,Platinum,Visa,Consumo,Activa,2024-01-01
+T000309,C00271,Gold,Visa,Consumo,Activa,2024-01-01
+T000310,C00067,Platinum,Visa,Consumo,Activa,2024-01-01
+T000311,C00247,Gold,Mastercard,Premium,Activa,2024-01-01
+T000312,C00231,Gold,Visa,Premium,Activa,2024-01-01
+T000313,C00207,Gold,VISA,Premium,Activa,2024-01-01
+T000314,C00123,Platinum,master card,Premium,Activa,2024-01-01
+T000315,C00243,Gold,Mastercard,Premium,Activa,2024-01-01
+T000316,C00069,Gold,Mastercard,Premium,Activa,2024-01-01
+T000317,C00211,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000318,C00010,Gold,Visa,Premium,Activa,2024-01-01
+T000319,C00110,Gold,master card,Premium,Activa,2024-01-01
+T000320,C00027,Classic,Visa,Premium,Activa,2024-01-01
+T000321,C00210,Gold,Mastercard,Premium,Activa,2024-01-01
+T000322,C00276,Classic,Visa,Premium,Activa,2024-01-01
+T000323,C00016,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000324,C00255,Gold,VISA,Premium,Activa,2024-01-01
+T000325,C00198,Gold,VISA,Premium,Activa,2024-01-01
+T000326,C00285,Gold,master card,Consumo,Activa,2024-01-01
+T000327,C00177,Classic,Visa,Premium,Activa,2024-01-01
+T000328,C00266,Platinum,visa,Consumo,Activa,2024-01-01
+T000329,C00153,Classic,Visa,Consumo,Activa,2024-01-01
+T000330,C00175,Gold,Visa,Consumo,Activa,2024-01-01
+T000331,C00154,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000332,C00003,Platinum,visa,Premium,Activa,2024-01-01
+T000333,C00292,Gold,Visa,Consumo,Activa,2024-01-01
+T000334,C00269,Classic,master card,Premium,Activa,2024-01-01
+T000335,C00266,Gold,master card,Consumo,Activa,2024-01-01
+T000336,C00178,Gold,VISA,Premium,Activa,2024-01-01
+T000337,C00241,Platinum,Visa,Consumo,Activa,2024-01-01
+T000338,C00225,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000339,C00254,Gold,VISA,Premium,Activa,2024-01-01
+T000340,C00206,Gold,Visa,Consumo,Activa,2024-01-01
+T000341,C00181,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000342,C00215,Gold,master card,Consumo,Activa,2024-01-01
+T000343,C00095,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000344,C00263,Platinum,visa,Premium,Activa,2024-01-01
+T000345,C00157,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000346,C00196,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000347,C00164,Classic,Visa,Premium,Activa,2024-01-01
+T000348,C00101,Gold,Visa,Premium,Activa,2024-01-01
+T000349,C00164,Gold,VISA,Consumo,Activa,2024-01-01
+T000350,C00245,Classic,VISA,Consumo,Activa,2024-01-01
+T000351,C00138,Classic,master card,Premium,Activa,2024-01-01
+T000352,C00121,Gold,visa,Premium,Activa,2024-01-01
+T000353,C00293,Classic,VISA,Premium,Activa,2024-01-01
+T000354,C00078,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000355,C00046,Gold,master card,Consumo,Activa,2024-01-01
+T000356,C00232,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000357,C00139,Platinum,visa,Premium,Activa,2024-01-01
+T000358,C00187,Platinum,Visa,Consumo,Activa,2024-01-01
+T000359,C00025,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000360,C00143,Gold,Mastercard,Premium,Activa,2024-01-01
+T000361,C00048,Classic,visa,Premium,Activa,2024-01-01
+T000362,C00065,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000363,C00008,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000364,C00254,Platinum,master card,Premium,Activa,2024-01-01
+T000365,C00265,Platinum,Visa,Premium,Activa,2024-01-01
+T000366,C00015,Gold,Mastercard,Premium,Activa,2024-01-01
+T000367,C00158,Classic,Visa,Premium,Activa,2024-01-01
+T000368,C00204,Gold,Visa,Consumo,Activa,2024-01-01
+T000369,C00165,Gold,master card,Premium,Activa,2024-01-01
+T000370,C00227,Platinum,Visa,Premium,Activa,2024-01-01
+T000371,C00260,Gold,Visa,Premium,Activa,2024-01-01
+T000372,C00196,Gold,Visa,Premium,Activa,2024-01-01
+T000373,C00133,Gold,Visa,Premium,Activa,2024-01-01
+T000374,C00150,Platinum,Visa,Premium,Activa,2024-01-01
+T000375,C00157,Platinum,VISA,Consumo,Activa,2024-01-01
+T000376,C00003,Platinum,VISA,Consumo,Activa,2024-01-01
+T000377,C00116,Platinum,visa,Consumo,Activa,2024-01-01
+T000378,C00213,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000379,C00286,Gold,visa,Consumo,Activa,2024-01-01
+T000380,C00129,Classic,Visa,Premium,Activa,2024-01-01
+T000381,C00061,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000382,C00042,Gold,Mastercard,Premium,Activa,2024-01-01
+T000383,C00015,Gold,visa,Consumo,Activa,2024-01-01
+T000384,C00062,Classic,Mastercard,Premium,Activa,2024-01-01
+T000385,C00235,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000386,C00208,Classic,Visa,Consumo,Activa,2024-01-01
+T000387,C00100,Platinum,master card,Consumo,Activa,2024-01-01
+T000388,C00145,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000389,C00122,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000390,C00075,Classic,Mastercard,Premium,Activa,2024-01-01
+T000391,C00023,Gold,visa,Consumo,Activa,2024-01-01
+T000392,C00118,Platinum,visa,Premium,Activa,2024-01-01
+T000393,C00205,Gold,Mastercard,Premium,Activa,2024-01-01
+T000394,C00274,Classic,visa,Consumo,Activa,2024-01-01
+T000395,C00059,Platinum,visa,Premium,Activa,2024-01-01
+T000396,C00060,Classic,visa,Premium,Activa,2024-01-01
+T000397,C00123,Classic,VISA,Consumo,Activa,2024-01-01
+T000398,C00172,Classic,Visa,Consumo,Activa,2024-01-01
+T000399,C00216,Classic,master card,Consumo,Activa,2024-01-01
+T000400,C00231,Gold,Visa,Consumo,Activa,2024-01-01
+T000095,C00293,Gold,VISA,Premium,Activa,2024-01-01
+T000033,C00038,Gold,master card,Premium,Activa,2024-01-01
+T000226,C00037,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000158,C00140,Platinum,visa,Premium,Activa,2024-01-01
+T000357,C00139,Platinum,visa,Premium,Activa,2024-01-01
+T000026,C00044,Classic,Mastercard,Premium,Activa,2024-01-01
+T000068,C00075,Gold,Visa,Premium,Activa,2024-01-01
+T000190,C00228,Gold,visa,Consumo,Activa,2024-01-01
+T000305,C00040,Gold,visa,Consumo,Activa,2024-01-01
+T000227,C00027,Gold,Visa,Consumo,Activa,2024-01-01
+T000179,C00202,Platinum,visa,Premium,Activa,2024-01-01
+T000078,C00300,Classic,master card,Premium,Activa,2024-01-01
+T000183,C00188,Classic,Visa,Premium,Activa,2024-01-01
+T000299,C00279,Platinum,VISA,Premium,Activa,2024-01-01
+T000143,C00213,Classic,master card,Consumo,Activa,2024-01-01
+T000184,C00010,Platinum,Mastercard,Consumo,Activa,2024-01-01
+T000194,C00280,Classic,Mastercard,Consumo,Activa,2024-01-01
+T000394,C00274,Classic,visa,Consumo,Activa,2024-01-01
+T000347,C00164,Classic,Visa,Premium,Activa,2024-01-01
+T000003,C00108,Classic,Visa,Premium,Activa,2024-01-01
+T000290,C00099,Gold,VISA,Premium,Activa,2024-01-01
+T000393,C00205,Gold,Mastercard,Premium,Activa,2024-01-01
+T000085,C00133,Classic,Mastercard,Premium,Activa,2024-01-01
+T000399,C00216,Classic,master card,Consumo,Activa,2024-01-01
+T000071,C00216,Classic,master card,Premium,Activa,2024-01-01
+T000319,C00110,Gold,master card,Premium,Activa,2024-01-01
+T000021,C00246,Platinum,master card,Premium,Activa,2024-01-01
+T000237,C00238,Platinum,master card,Premium,Activa,2024-01-01
+T000383,C00015,Gold,visa,Consumo,Activa,2024-01-01
+T000161,C00164,Classic,Visa,Consumo,Activa,2024-01-01
+T000056,C00234,Gold,master card,Premium,Activa,2024-01-01
+T000323,C00016,Gold,Mastercard,Consumo,Activa,2024-01-01
+T000025,C00128,Gold,Visa,Premium,Activa,2024-01-01
+T000242,C00206,Platinum,Mastercard,Premium,Activa,2024-01-01
+T000008,C00127,Gold,master card,Consumo,Activa,2024-01-01
+T000222,C00150,Gold,Visa,Consumo,Activa,2024-01-01
+T000302,C00210,Gold,Visa,Premium,Activa,2024-01-01
+T000054,C00190,Classic,visa,Consumo,Activa,2024-01-01
+T000029,C00264,Classic,Visa,Premium,Activa,2024-01-01
+T000330,C00175,Gold,Visa,Consumo,Activa,2024-01-01
